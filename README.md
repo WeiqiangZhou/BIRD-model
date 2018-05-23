@@ -5,7 +5,7 @@ This repository contains the prebuilt models for BIRD.
 1. Download and unzip the required model from this repo.
 ```
 wget https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.0/model_file_2M.zip
-unzip model_file_2M.bin.zip
+unzip model_file_2M.zip
 ```
 You will get two files: model_file_2M.bin and gene_name.txt.
 
