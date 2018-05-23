@@ -1,7 +1,7 @@
 # BIRD-model
 This repository contains the prebuilt models for BIRD.
 
-# How to use
+## How to use
 1. Download and unzip the required model from this repo.
 ```
 wget https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.0/model_file_2M.zip
