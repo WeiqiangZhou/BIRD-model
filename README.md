@@ -30,5 +30,5 @@ Prediction:
 path_to_BIRD/BIRD_predict -b path_to_model/model_file_2M.bin -i FPKM_data_matrix_match.txt -o output_file.txt
 ```
 
-**More instruction for BIRD can be found in https://github.com/WeiqiangZhou/BIRD**
+**More instructions for BIRD can be found in https://github.com/WeiqiangZhou/BIRD**
 
