@@ -1,4 +1,4 @@
-# BIRD-model
+# BIRD prediction models
 This repository contains the prebuilt models for BIRD.
 
 ## How to use
