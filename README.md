@@ -30,9 +30,9 @@ make
 
 If you store the model files in _path_to_model_ and install BIRD in _path_to_BIRD_.
 
-Prediction:
+Run:
 ```
-path_to_BIRD/BIRD_predict -b path_to_model/model_file_2M.bin -i FPKM_data_matrix_match.txt -o output_file.txt
+path_to_BIRD/BIRD_predict -b path_to_model/RNAseq_model_file.bin -i FPKM_data_matrix.txt -o output_file.txt
 ```
 
 **More instructions for BIRD can be found in https://github.com/WeiqiangZhou/BIRD**
