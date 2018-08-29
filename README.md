@@ -2,15 +2,12 @@
 This repository contains the prebuilt models for BIRD.
 There are three models available:
 1. RNA-seq model: 
-
 https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.2/RNAseq_model_file.bin.zip
 
 2. RNA-seq model for 2 million loci: 
-
 https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.0/RNAseq_model_file_2M.bin.zip
 
 3. Exon Array model:
-
 https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.1/Exonarray_model_file.bin.zip
 
 ## How to use
