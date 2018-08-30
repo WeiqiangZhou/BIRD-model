@@ -28,7 +28,7 @@ make
 
 3. Prediction using the model file.
 
-If you store the model files in _path_to_model_ and install BIRD in _path_to_BIRD_.
+Suppose you store the model files in _path_to_model_ and install BIRD in _path_to_BIRD_.
 
 Run:
 ```
