@@ -1,5 +1,10 @@
 This repository contains the prebuilt models for BIRD.
 
+## BIRD prediction models for human reference genome hg38
+
+1. RNA-seq model based on FPKM, current release (trained with 167 ENCODE samples):
+https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.4/human_hg38_model.bin.zip
+
 ## BIRD prediction models for human reference genome hg19
 
 There are four models available for hg19:
@@ -14,11 +19,6 @@ https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.0/RNAseq_model_f
 
 4. Exon Array model:
 https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.1/Exonarray_model_file.bin.zip
-
-## BIRD prediction models for human reference genome hg38
-
-1. RNA-seq model based on FPKM, current release (trained with 167 ENCODE samples):
-https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.4/human_hg38_model.bin.zip
 
 ## How to use
 1. Download and unzip the required model from this repo. For prediction based on RNA-seq data, we suggest users use the current release.
