@@ -2,7 +2,7 @@ This repository contains the prebuilt models for BIRD.
 
 ## BIRD prediction models for human reference genome hg38
 
-1. RNA-seq model based on FPKM, current release (trained with 167 ENCODE samples):
+1. RNA-seq model based on FPKM, current release (trained with 174 ENCODE samples):
 https://github.com/WeiqiangZhou/BIRD-model/releases/download/v1.4/human_hg38_model.bin.zip
 
 ## BIRD prediction models for human reference genome hg19
